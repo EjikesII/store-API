@@ -1,0 +1,131 @@
+[
+  {
+    "name": "accent chair",
+    "price": 25,
+    "brand": "Federico",
+    "rating": 4
+  },
+  {
+    "name": "albany sectional",
+    "price": 109,
+    "brand": "Bedmate",
+    "rating": 5
+  },
+  {
+    "name": "albany table",
+    "price": 309,
+    "brand": "Federico",
+    "rating": 4.9
+  },
+  {
+    "name": "armchair",
+    "price": 125,
+    "brand": "marcos",
+    "rating": 4.8
+  },
+  {
+    "name": "bar stool",
+    "price": 40,
+    "brand": "Bedmate",
+    "rating": 4.6
+  },
+  {
+    "name": "dining table",
+    "price": 42,
+    "brand": "Cadence Interior",
+    "rating": 4.55
+  },
+  {
+    "name": "emperor bed",
+    "price": 23,
+    "brand": "Cadence Interior"
+  },
+  {
+    "name": "entertainment center",
+    "price": 590000,
+    "featured": true,
+    "brand": "Royal Furniture"
+  },
+  {
+    "name": "high-back bench",
+    "price": 3900000,
+    "featured": true,
+    "brand": "Cadence Interior"
+  },
+
+  {
+    "name": "leather sofa",
+    "price": 990000,
+    "brand": "Bedmate"
+  },
+  {
+    "name": "modern bookshelf",
+    "price": 310000,
+    "featured": true,
+    "brand": "Bedmate"
+  },
+  {
+    "name": "modern poster",
+    "price": 30000,
+    "brand": "Bedmate"
+  },
+  {
+    "name": "shelf",
+    "price": 300000,
+    "brand": "Cadence Interior"
+  },
+  {
+    "name": "simple chair",
+    "price": 109000,
+    "brand": "Bedmate"
+  },
+  {
+    "name": "sofa set",
+    "price": 1290000,
+    "brand": "marcos"
+  },
+  {
+    "name": "suede armchair",
+    "price": 150000,
+    "brand": "Bedmate"
+  },
+  {
+    "name": "utopia sofa",
+    "price": 7900000,
+    "featured": true,
+    "brand": "Bedmate"
+  },
+  {
+    "name": "vase table",
+    "price": 120000,
+    "featured": true,
+    "brand": "marcos"
+  },
+  {
+    "name": "wooden bed",
+    "price": 250000,
+    "brand": "Cadence Interior"
+  },
+  {
+    "name": "wooden desk",
+    "price": 150000,
+    "brand": "Cadence Interior"
+  },
+  {
+    "name": "wooden desk",
+    "price": 40000,
+    "brand": "Cadence Interior"
+  },
+  {
+    "name": "wooden table",
+    "price": 230000,
+    "featured": true,
+    "brand": "Royal Furniture"
+  },
+  {
+    "name": "a first wooden table",
+    "price": 235000,
+    "featured": true,
+    "brand": "Royal Furniture"
+  }
+]
